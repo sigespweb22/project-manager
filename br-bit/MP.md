@@ -10,3 +10,6 @@
 
 ## CROSS
 * Reuniões tecnologia com o time de BackEnd - Fazer um simuladão sobre dotnet core - Partir do zero com uma entidade
+
+## PRODUTIVIDA TIME
+* Desenvolver SCAFFOLDING para criação automatizada dos principais componentes de front e back dos principais projetos 
