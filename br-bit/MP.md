@@ -1,5 +1,5 @@
 # MINHAS PENDÊNCIAS
-
+* Verificar com o Denner e Maira se a TorreServe possui algum serviço de ElasticSearch para indexarmos as 54 bases de dados das vps
 
 ## FRONT
 * LIMPAR ESTRUTURA DO PROJETO - DEIXAR APENAS AS ENTIDADE RELACIONADAS AO LOGIN, E A NOVA TELA DETENTOS E A NF.

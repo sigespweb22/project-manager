@@ -1,5 +1,7 @@
 ## Padrões que quero adotar principalmente no gateway central para aumentar a performance e resiliência da aplicação
 
+* Prometheus/Grafana: Como ferramenta de coleta e análise de métricas em tempo real.
+
 * Utilizar caching: O caching é uma técnica que pode ajudar a melhorar a performance da aplicação, armazenando dados frequentemente acessados na memória ou em um cache distribuído. O ASP.NET Core oferece várias opções de caching, incluindo o MemoryCache e o DistributedCache.
 
 * Utilizar serviços de mensageria: Utilizar serviços de mensageria como o RabbitMQ ou o Azure Service Bus podem ajudar a reduzir a carga de trabalho em servidores de banco de dados, melhorando a escalabilidade e a disponibilidade da aplicação.
