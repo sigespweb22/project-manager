@@ -13,3 +13,9 @@
 
 ## PRODUTIVIDA TIME
 * Desenvolver SCAFFOLDING para criação automatizada dos principais componentes de front e back dos principais projetos 
+
+## DECISÕES PARA O FUTURO DOS PROJETOS
+* Golande
+* Julia
+* Arquitetura Lambda - Go ou C#
+* gRPC | AMQP - Implementar estes protocolos de comunicação entre microservices
