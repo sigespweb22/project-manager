@@ -9,3 +9,15 @@ Repositório para documentação de gestão de projetos da Br-Bit Sistemas
 
 ## FrontEnd
 * Campos insentivo fiscal e optante pelo simples é uma pergunta? Então, o ideal seria HasIncentivoFiscal
+
+# Detalhes RoadMap de Abril
+
+# Prioridade Alta
+
+# Prioridade média
+* Módulo Saúde em PHP | Definir os passos para reescrita do microservice para dotnet ou node, no intuito de entregá-lo implementado junto do escopo de projetos do supersagep
+
+# Prioridade baixa
+* SIAPA - Java / JSF / PrimeNG | Iniciar transição de transferência de tecnologia para o time biters web
+* Regime aberto - Facial | Iniciar transição de transferência de tecnologia para o time biters web
+
