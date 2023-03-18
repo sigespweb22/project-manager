@@ -23,3 +23,7 @@
 ## EVOLUÇÃO DO TIME
 https://blog.cronapp.io/5-boas-praticas-para-monitorar-e-gerenciar-o-desenvolvimento-de-softwares/
 https://uds.com.br/blog/boas-praticas-de-desenvolvimento-de-software/
+
+## CULTURA DE PROJETO E SEGURANÇA
+Abordagem proativa para área de segurança das aplicações.
+https://www.syhunt.com/pt/?n=Products.SyhuntCode
