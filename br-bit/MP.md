@@ -19,3 +19,7 @@
 * Julia
 * Arquitetura Lambda - Go ou C#
 * gRPC | AMQP - Implementar estes protocolos de comunicação entre microservices
+
+## EVOLUÇÃO DO TIME
+https://blog.cronapp.io/5-boas-praticas-para-monitorar-e-gerenciar-o-desenvolvimento-de-softwares/
+https://uds.com.br/blog/boas-praticas-de-desenvolvimento-de-software/
