@@ -31,22 +31,35 @@ https://www.syhunt.com/pt/?n=Products.SyhuntCode
 ## ARQUITETURA WEB
 
 # Estratégia de DB | MULTI-ESQUEMA
+
+Primeiro ponto a ser levantado são os benefícios em cada uma das estratégias;
+
+1) MULTI-ESQUEMAS:
+    Benefícios:
+    a) Isolamento de dados o que fornece mais segurança em caso de vasamentos de dados;
+    b) Em
+
+* Porque não multi-bancos?
+> Basicamente quando o assunto é multi-bancos de imediato nos vem em mente 3 grandes benefícios: Isolamento de dados, Personalização e Desempenho nas consultas. Contudo, considerando o nosso negócio este tipo de necessidade não é latente bem como recorrente. Ao passo que o que no que nos é mais relevante como Desempenho temos uma gama imensa de soluções que atendem o modelo escolhido, sem super estimar infraestrutura. Dose certa, para o problema certo.
+
 * A decisão pela estratégia multi-esquemas levou em consideração 3 fatores:
 
 a) RECURSOS e CUSTOS: Manter bancos de dados separados pode exigir maior custo em infraestrutura, maior custo de manutenibilidade pelo time, principalmente nas correções e evolução das tabelas em comum entre os bancos. Bem como impactar diretamente no conceito de entrega contínua de software, ao passo que para cada melhoria que envolva ajustes banco, requer uma atualização de todos os bancos de dados, impactando na cultura de continuidade das entregas.
 Outro ponto importante são os recursos superestimados ao concentrar toda operação de apenas uma unidade prisional em um único banco. Por exemplo, manter um banco exclusivo para receber um fluxo não muito grande de requisições simultâneas, bem como também por exemplo uma tabela exclusiva de detentos em um banco exclusivo para manter apenas em média 800 a 1500 registros ativos de detentos.
+É o mesmo que usar um canhão pra matar uma barata!
 
-Esta decisão não é a mais fácil, sendo a mais desafiadora, contudo, é a que melhor oferece custo benefício 
+Esta decisão não é a mais fácil de manter, sendo portanto a mais desafiadora.
+Vai exigir com o passar do tempo maior conhecimento em tecnologias afins e dedicação do time para superar os desafios de segurança, escalabilidade e performance que irão surgirão com o passar do tempo.
 
-* Vantagens do banco de dados separado:
-> POUCA RELEVÂNCIA | Flexibilidade para escalar horizontalmente, uma vez que é mais fácil clusterizar e distribuir instâncias de um mesmo banco de dados em caso de gargalo.  em geral por tabela isso também pode ser feito na estratégia de multi-esquemas, embora tenhamos uma camada a mais de complexidade para manter os dados sincronizados estre as instâncias.
-> Contudo, isso não me parece ser tão importante, uma vez que não há grandes surpresas quanto a quantidade de dados
->
+b) GERENCIAMENTO SIMPLIFICADO | CONDIÇÕES MELHORES PARA ESCALAR E INTEGRAR INFORMAÇÕES: Um único banco com multiplos esquemas centraliza a lógica de escala nas atualizações, migrações e monitoramento, o que por sua vez facilita o gerenciamento como um todo, mesmo quando aplicado outras estratégias para prover performance para a aplicação.
+Aplicar atualizações em bancos multi-esquemas garante o versionamento preciso e consistência na relação entre as tabelas comuns, tabelas relacionadas, bem como a integridade entre elas no que diz respeito as tabelas idênticas e suas propriedades. Dados em um mesmo banco de dados, separados apenas por esquemas, facilita o relacionamento de informações entre diferentes clientes.
 
-* Desvantagens do banco de dados separado:
-> 
+c) ESCALA HORIZONTAL: A medida que o número de clientes aumentam e, consequentemente, o número de bancos de dados aumenta, o gerenciamento e a manutenção de todos estes bancos podem se tornar mais complexos nas necessidades de backups, atualizações e migrações.
 
-Estas vantangens considerando o nosso negócio não são vantagens 
+* ATENÇÕES IMEDIATOS
+> SEGURANÇA: Em casos de vazamento de dados, a extensão do dano é maior, ao passo que tudo está centralizado em apenas um banco central e suas instâncias ou clusters, contudo, uma cultura de segurança forte aliada a estratégias de observability (rastreamento e monitoramento de logs) vão mitigar estes riscos significativamente.
+> BACKUPS: Testar os backups pode ser mais desafiador, devido ao volume dos dados, bem como o tamanho dos arquivos de backups gerados.
+
 
 * Vantagens do Multi-Esquemas
 > Entrega contínua de correções, pequenos ajustes até novas funcionalidades: Nem sempre as funcionalidades novas serão entregues em produção antes das mesmas serem vendidas ao estado. Portanto, MULTI-ESQUEMAS como argumento de facilidade na e
