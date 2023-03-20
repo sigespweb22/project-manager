@@ -21,3 +21,31 @@ Repositório para documentação de gestão de projetos da Br-Bit Sistemas
 * SIAPA - Java / JSF / PrimeNG | Iniciar transição de transferência de tecnologia para o time biters web
 * Regime aberto - Facial | Iniciar transição de transferência de tecnologia para o time biters web
 
+-------------------------------------------------------------------------------------------------------
+ENTREGA ATÉ ABRIL/2023
+Educação
+Saúde
+Meu Reforço
+Penal
+SIAPA - Java / JSF / PrimeNG
+Regime aberto - Facial
+Dashboard - DOTNET 7.0
+NFS-e - Distrito Federal - NODEJS/EXPRESS
+
+-------------------------------------------------------------------------------------------------------
+ENTREGA ATÉ ABRIL/2023
+Dashboard - DOTNET 7.0
+NFS-e - Distrito Federal - NODEJS/EXPRESS
+
+ESTAS DUAS FEATURES SERÃO DOIS NOVOS MICROSERVICES
+-------------------------------------------------------------------------------------------------------
+ENTREGA ATÉ DEZEMBRO/2023
+SuperSagepWeb
+Dashboard - DOTNET 7.0
+NFS-e - Distrito Federal - NODEJS/EXPRESS
+Laboral/Pecúlio
+
+REUNIÃO 15/03/2023
+-------------------------------------------------------------------------------------------------------
+* Implantação SAÚDE
+
