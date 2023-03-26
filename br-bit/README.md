@@ -21,3 +21,7 @@ Repositório para documentação de gestão de projetos da Br-Bit Sistemas
 * SIAPA - Java / JSF / PrimeNG | Iniciar transição de transferência de tecnologia para o time biters web
 * Regime aberto - Facial | Iniciar transição de transferência de tecnologia para o time biters web
 
+## CI/CD - GitLab
+* https://about.gitlab.com/pricing/premium/?step=2
+* https://about.gitlab.com/pricing/
+
