@@ -21,12 +21,10 @@ Repositório para documentação de gestão de projetos da Br-Bit Sistemas
 * SIAPA - Java / JSF / PrimeNG | Iniciar transição de transferência de tecnologia para o time biters web
 * Regime aberto - Facial | Iniciar transição de transferência de tecnologia para o time biters web
 
-<<<<<<< HEAD
 ## CI/CD - GitLab
 * https://about.gitlab.com/pricing/premium/?step=2
 * https://about.gitlab.com/pricing/
 
-=======
 -------------------------------------------------------------------------------------------------------
 ENTREGA ATÉ ABRIL/2023
 Educação
@@ -77,4 +75,3 @@ REUNIÃO 24/03/2023
 * Educação | Features para entrega em Abril
 * Entrega contínua | 
 * Dashboard | 
->>>>>>> 813b1aad6dbf977149ec99b98e66c38c0bbed7cd
