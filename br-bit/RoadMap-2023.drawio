@@ -413,14 +413,14 @@
         </mxGraphModel>
     </diagram>
     <diagram name="Copy of Arquitetura | Evolução" id="65mfKx3S2xD7Ftnoq5gS">
-        <mxGraphModel dx="2830" dy="1120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2583" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="64Gzf-j3wg01YdDnDtUz-0"/>
                 <mxCell id="64Gzf-j3wg01YdDnDtUz-1" parent="64Gzf-j3wg01YdDnDtUz-0"/>
                 <mxCell id="64Gzf-j3wg01YdDnDtUz-2" style="edgeStyle=none;html=1;fontSize=16;" parent="64Gzf-j3wg01YdDnDtUz-1" source="64Gzf-j3wg01YdDnDtUz-3" target="64Gzf-j3wg01YdDnDtUz-11" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="64Gzf-j3wg01YdDnDtUz-3" value="sagep-ui&lt;br&gt;UI" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;fontSize=26;" parent="64Gzf-j3wg01YdDnDtUz-1" vertex="1">
+                <mxCell id="64Gzf-j3wg01YdDnDtUz-3" value="sagep-ui&lt;br&gt;UI" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=26;" parent="64Gzf-j3wg01YdDnDtUz-1" vertex="1">
                     <mxGeometry x="70" y="400" width="200" height="200" as="geometry"/>
                 </mxCell>
                 <mxCell id="64Gzf-j3wg01YdDnDtUz-4" style="edgeStyle=none;html=1;fontSize=16;" parent="64Gzf-j3wg01YdDnDtUz-1" source="64Gzf-j3wg01YdDnDtUz-11" target="64Gzf-j3wg01YdDnDtUz-16" edge="1">
@@ -462,13 +462,13 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="64Gzf-j3wg01YdDnDtUz-14" value="sagep-carceragem" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="64Gzf-j3wg01YdDnDtUz-1" vertex="1">
+                <mxCell id="64Gzf-j3wg01YdDnDtUz-14" value="sagep-carceragem" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="64Gzf-j3wg01YdDnDtUz-1" vertex="1">
                     <mxGeometry x="430" y="251" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="64Gzf-j3wg01YdDnDtUz-15" style="edgeStyle=none;html=1;fontSize=16;" parent="64Gzf-j3wg01YdDnDtUz-1" source="64Gzf-j3wg01YdDnDtUz-16" target="64Gzf-j3wg01YdDnDtUz-24" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="64Gzf-j3wg01YdDnDtUz-16" value="sagep-nfse" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="64Gzf-j3wg01YdDnDtUz-1" vertex="1">
+                <mxCell id="64Gzf-j3wg01YdDnDtUz-16" value="sagep-nfse" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="64Gzf-j3wg01YdDnDtUz-1" vertex="1">
                     <mxGeometry x="430" y="380" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="64Gzf-j3wg01YdDnDtUz-17" style="edgeStyle=none;html=1;fontSize=16;" parent="64Gzf-j3wg01YdDnDtUz-1" source="64Gzf-j3wg01YdDnDtUz-18" target="64Gzf-j3wg01YdDnDtUz-26" edge="1">
@@ -508,7 +508,7 @@
                 <mxCell id="64Gzf-j3wg01YdDnDtUz-27" value="sagep-auth" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;" parent="64Gzf-j3wg01YdDnDtUz-1" vertex="1">
                     <mxGeometry x="320" y="910" width="60" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="64Gzf-j3wg01YdDnDtUz-28" value="sagep-educacao" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="64Gzf-j3wg01YdDnDtUz-1" vertex="1">
+                <mxCell id="64Gzf-j3wg01YdDnDtUz-28" value="sagep-educacao" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="64Gzf-j3wg01YdDnDtUz-1" vertex="1">
                     <mxGeometry x="430" y="140" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="64Gzf-j3wg01YdDnDtUz-29" style="edgeStyle=none;html=1;fontSize=16;" parent="64Gzf-j3wg01YdDnDtUz-1" target="64Gzf-j3wg01YdDnDtUz-31" edge="1">
@@ -532,7 +532,7 @@
                 <mxCell id="bXtrgNaoh5bNUr47YTM7-6" style="edgeStyle=none;html=1;entryX=1.062;entryY=0.806;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="64Gzf-j3wg01YdDnDtUz-1" source="64Gzf-j3wg01YdDnDtUz-32" target="64Gzf-j3wg01YdDnDtUz-11">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="64Gzf-j3wg01YdDnDtUz-32" value="sagep-saude" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="64Gzf-j3wg01YdDnDtUz-1" vertex="1">
+                <mxCell id="64Gzf-j3wg01YdDnDtUz-32" value="sagep-saude" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="64Gzf-j3wg01YdDnDtUz-1" vertex="1">
                     <mxGeometry x="430" y="780" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="64Gzf-j3wg01YdDnDtUz-33" style="edgeStyle=none;html=1;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="64Gzf-j3wg01YdDnDtUz-1" source="64Gzf-j3wg01YdDnDtUz-32" target="64Gzf-j3wg01YdDnDtUz-34" edge="1">
@@ -615,7 +615,7 @@
                 <mxCell id="bXtrgNaoh5bNUr47YTM7-8" style="edgeStyle=none;html=1;" edge="1" parent="64Gzf-j3wg01YdDnDtUz-1" source="bXtrgNaoh5bNUr47YTM7-7" target="64Gzf-j3wg01YdDnDtUz-11">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="bXtrgNaoh5bNUr47YTM7-7" value="sagep-desktop" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="64Gzf-j3wg01YdDnDtUz-1">
+                <mxCell id="bXtrgNaoh5bNUr47YTM7-7" value="sagep-desktop" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="64Gzf-j3wg01YdDnDtUz-1">
                     <mxGeometry x="60" y="141" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="bXtrgNaoh5bNUr47YTM7-12" value="API" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="64Gzf-j3wg01YdDnDtUz-1">
@@ -632,15 +632,6 @@
                 </mxCell>
                 <mxCell id="bXtrgNaoh5bNUr47YTM7-20" value="sagep-web hoje obtém os detentos de onde?&lt;br style=&quot;font-size: 20px;&quot;&gt;Diretamente do banco onde o sagep desktop faz as operações?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="64Gzf-j3wg01YdDnDtUz-1">
                     <mxGeometry x="980" y="860" width="350" height="130" as="geometry"/>
-                </mxCell>
-                <mxCell id="bXtrgNaoh5bNUr47YTM7-22" style="edgeStyle=none;html=1;fontSize=20;" edge="1" parent="64Gzf-j3wg01YdDnDtUz-1" source="bXtrgNaoh5bNUr47YTM7-21" target="64Gzf-j3wg01YdDnDtUz-3">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="bXtrgNaoh5bNUr47YTM7-21" value="contact&lt;br&gt;center" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontSize=26;" vertex="1" parent="64Gzf-j3wg01YdDnDtUz-1">
-                    <mxGeometry x="44.5" y="744.5" width="151" height="151" as="geometry"/>
-                </mxCell>
-                <mxCell id="bXtrgNaoh5bNUr47YTM7-23" value="É a centra de comunicação interna dentro da unidade e entre as unidades.&amp;nbsp;&lt;br&gt;Por aqui serão centralizadas comunicações mais imediatas entre os servidores e as unidades, bem como, solicitações entre os servidores do estado e as unidades." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="64Gzf-j3wg01YdDnDtUz-1">
-                    <mxGeometry x="-180" y="880" width="410" height="204.5" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
