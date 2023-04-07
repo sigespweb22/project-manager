@@ -25,6 +25,10 @@ Repositório para documentação de gestão de projetos da Br-Bit Sistemas
 * https://about.gitlab.com/pricing/premium/?step=2
 * https://about.gitlab.com/pricing/
 
+* Pendências para ver com Mauro
+  > Falar sobre o versionamento semântico;
+  > Padrão linguagem projeto (Portugês | Inglês);
+
 -------------------------------------------------------------------------------------------------------
 ENTREGA ATÉ ABRIL/2023
 Educação
