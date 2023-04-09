@@ -61,7 +61,7 @@ REUNIÃO 24/03/2023
 -------------------------------------------------------------------------------------------------------
 * NFS-e (Assinatura | Travada, Plugar Front com o Back, Envio pro município);
   > Ajustar nome do menu para Nota Fiscal de Serviço;
-  > Exportação PDF 
+  > Exportação PDF
   > Exportação de lista de PDF | XML - (Modelo PDF solicitado ao LEONILDO ao qual já solicito para o DF, mas faremos um modelo qualquer depois ajustamos);
   > Sincronização -> Consulta e salvar os dados no banco - 50%
   > Cancelamento -> Consulta e salvar os dados no banco - Quase pronto
@@ -78,4 +78,5 @@ REUNIÃO 24/03/2023
 * Devs novos (2) - A partir de segunda feira a tarde | Criação do ambiente e o encaminhamento dos treinamento já com foco na transição para produto dentro do projeto.
 * Educação | Features para entrega em Abril
 * Entrega contínua | 
-* Dashboard | 
+* Dashboard |
+
