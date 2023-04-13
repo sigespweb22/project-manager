@@ -23,8 +23,8 @@ export interface ImportNFSE {
 }
 
 ## Padrões de nomenclatura
-* Trocar o nome Discriminacao por Descrição
-* Manter um padrão apenas: Ou PascalCase ou Undercore
+* Verificar para trocar o nome Discriminacao por Descrição se for o caso...
+* Manter um padrão apenas: Ou PascalCase ou Undercore no nome das properties
 export interface FilterNFSE extends ExportType {
 
     tenantId: string;
