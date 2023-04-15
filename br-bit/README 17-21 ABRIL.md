@@ -8,3 +8,4 @@ adequar o tipo FilterNFSE
 * sagep-nfse: Tirar tenantId de todos os filtros e parâmetros de endpoint e extrair este dado de dentro do token.
 * exportar: Ao abrir modal o tipo pdf está marcado, contudo, não está setado no objeto filtros. Sendo assim quando clica em exportar sem antes selecionar o tipo xml e depois voltar para pdf o tipo fica undefined.
 * sagep-nfse: exportar xml: Não está retornando XML adequado, verificar o que está havendo? O tipo de chamada para geração do xml parece ser assincrono porque tem que ir na api para assinar, portanto, demora para vir o retorno e quando vem retorna 406.
+* MAIRA: Testar todo sistema, e levantar os erros para os devidos ajustes. Criar os tickets com os problemas e vincular aos responsáveis
