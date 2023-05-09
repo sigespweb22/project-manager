@@ -82,11 +82,19 @@ REUNIÃO 24/03/2023
 
 
 # Assuntos para tratar com o TIME
+
 ## Padrãoes de projeto: 
 * Porque estão colocando nos métodos de endpoints objetos gigantescos como parâmetros, exemplo é o método ImportNFSERepository
+
 * Porque criaram entidade Tenant no microservice nfse? Não ficou claro a composição dos microservices?
+
 * Porque o tomio criou um seed com os dados todos iguais? Guid pode dar conflito na hora de obter um registro pelo seu ID. Exemplo foi o seed da nota fiscal
 * Mensagens de erro devem todas seguir as regras que compõe a nossa lingua. Exemplo: Ponto final no final das mensagens de erro, gramática, e etc...
 * Filtros para exportação NFS-e, porque foi colocado os campos Cód. Empresa e convênio como opção para usuário decidir sobre os filtros que vai utilizar para exportar as nfs-es? O adequado seria listar as empresas e convênios permitindo ao usuário buscar pelo nome ou cnpj para efetuar o filtro.
 * Entidade NotaFiscal: Campo mesChamada, porque foi utilizado o mês do tipo text? Este dado é do tipo int dentro do tipo DateTime, fica mais fácil para validação, ocupa menos espaço na memória. Se é só o mÊs pq guardo o ano?
 * Mensagens de erro: Porque as vezes estão retornando thron new para erro de endpoint, e com objetos diferentes? Hora vem {\"status\":400,\"message\":\"Erro ao assinar o xml\"}", hora vem {\"statusCode\":400,\"message\":\"Erro ao assinar o xml\"}"
+
+
+* Importação: Toda vez que criar uma chamada
+* Assinatura fechou.
+* Ambiente de homologação - Pegar dados com Denner para seguir com o processo de integração com sistema da prefeitura.
