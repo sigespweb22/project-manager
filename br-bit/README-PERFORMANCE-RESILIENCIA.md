@@ -10,7 +10,7 @@
 
 * Utilizar o WebSockets: O WebSockets é uma tecnologia que permite a comunicação bidirecional em tempo real entre o cliente e o servidor. Ele pode ser usado para lidar com grandes volumes de tráfego simultâneo de forma eficiente, já que não há necessidade de abrir novas conexões para cada solicitação.
 
-* Otimizar consultas de banco de dados: Otimizar consultas de banco de dados é uma estratégia importante para melhorar a performance da aplicação. Isso pode incluir a utilização de índices, a seleção adequada das colunas e o uso de consultas assíncronas para melhorar a escalabilidade.
+* Otimizar consultas de banco de dados: Otimizar consultas de ba\bnco de dados é uma estratégia importante para melhorar a performance da aplicação. Isso pode incluir a utilização de índices, a seleção adequada das colunas e o uso de consultas assíncronas para melhorar a escalabilidade.
 
 * Utilizar o Azure Application Gateway: O Azure Application Gateway é um serviço gerenciado de balanceamento de carga que pode ajudar a melhorar a escalabilidade e disponibilidade da aplicação.
 
