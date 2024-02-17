@@ -1,2 +1,2 @@
 # project-manager
-Repositório para documentação de gestão de projetos
+Repositório para documentação em geral
